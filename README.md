@@ -2,7 +2,11 @@
 
 <img src="https://res.cloudinary.com/abisalde/image/upload/v1606122390/20201123_0902221.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github">
 
-I am a software engineer with networking and data analyst skills who is passionate about open-source project, innovation, and contributing to community. Currently, I am learning Python as a tool for data analysts including GraphQL ReacTJS, and GatsbyJS.
+I am a software engineer with networking and data analyst skill who is passionate about open-source project, innovation, and contributing to community. Currently, I am learning Python as a tool for data analysts including GraphQL, ReactJS, and GatsbyJS.
+
+
+### 📫 How to reach me: ...
+- Social media handle on <a href="https://twitter.com/abisalde">🔔  Abisalde   👈</a>
 
 <!--
 **abisalde/Abisalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
