@@ -6,6 +6,7 @@ I am a software engineer with networking and data analyst skill who is passionat
 
 
 ### 📫 How to reach me: ...
+<hr>
 - Social media handle on <a href="https://twitter.com/abisalde">🔔  Abisalde   👈</a>
 
 <!--
