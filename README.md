@@ -1,6 +1,6 @@
 ### Hi, I'm Isaiah 🌻💻
 
-<img src="https://res.cloudinary.com/abisalde/image/upload/v1616039512/Abisalde_github.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github">
+<img src="https://res.cloudinary.com/abisalde/image/upload/c_scale,h_311,w_816/v1616039512/Abisalde_github.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github">
 
 I am a software engineer with networking skill who is passionate about open-source project, innovation, and contributing to community. I keep working on my self to become a self sufficient software engineer as I keep track on improving JavaScript skills.
 <hr>
