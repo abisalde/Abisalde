@@ -8,7 +8,14 @@ I am a software engineer with networking skill who is passionate about open-sour
 ### 📫 How to reach me: ...
 - Social media handle on <a href="https://twitter.com/abisalde">🔔  Abisalde   👈</a>
 
+### I am open to collaborate with 
+- 👯 I’m looking to collaborate with open source community
+
 [![Abisalde's github stats](https://github-readme-stats.vercel.app/api?username=abisalde)](https://github.com/abisalde/github-readme-stats)
+
+
+
+
 
 <!--
 **abisalde/Abisalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
