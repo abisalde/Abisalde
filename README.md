@@ -2,18 +2,17 @@
 
 <img src="https://res.cloudinary.com/abisalde/image/upload/c_scale,h_311,w_816/v1616039512/Abisalde_github.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github">
 
-I am a software engineer with networking skill who is passionate about open-source project, innovation, and contributing to community. I keep working on my self to become a self sufficient software engineer as I keep track on improving JavaScript skills.
+I am a software engineer with networking skill who is passionate about open-source project, innovation, and contributing to community.
 <hr>
 
 ### 📫 How to reach me: ...
 - Social media handle on <a href="https://twitter.com/abisalde">🔔  Abisalde   👈</a>
 
-### I am open to collaborate with 
-- 👯 I’m looking to collaborate with open source community
 
 [![Abisalde's github stats](https://github-readme-stats.vercel.app/api?username=abisalde)](https://github.com/abisalde/github-readme-stats)
 
-
+### - 🔭 I’m currently learning JavaScript
+- working on JavaSccript through Node.js, React.js, and Gatsby.js
 
 
 
