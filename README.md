@@ -11,7 +11,7 @@ I am a software engineer with networking skill who is passionate about open-sour
 
 [![Abisalde's github stats](https://github-readme-stats.vercel.app/api?username=abisalde)](https://github.com/abisalde/github-readme-stats)
 
-### - 🔭 I’m currently learning JavaScript
+### 👨‍💻️ I’m currently learning JavaScript 👨‍💻️
 - working on JavaSccript through Node.js, React.js, and Gatsby.js
 
 
