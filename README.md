@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abisalde&show_icons=true&locale=en&layout=compact" alt="abisalde" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abisalde&show_icons=true&locale=en" alt="abisalde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abisalde&" alt="abisalde" /></p>
