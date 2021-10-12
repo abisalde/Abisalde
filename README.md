@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![wakatime](https://wakatime.com/badge/user/c653b176-eb2d-4826-9bd4-2cb06d718fb2.svg)](https://wakatime.com/@c653b176-eb2d-4826-9bd4-2cb06d718fb2)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abisalde&show_icons=true&locale=en&layout=compact" alt="abisalde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abisalde&" alt="abisalde" /></p>
