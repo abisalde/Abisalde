@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/abisalde/image/upload/c_scale,h_311,w_816/v1616039512/Abisalde_github.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github">
 
-I am a software engineer with networking skill who is passionate about open-source project, innovation, and contributing to community.
+Bright and ambitious Engineer, with a strong technical background building Web Application with JavaScript. I am currently learning ReactJS and GatsbyJS to build efficient and optimized Web application. My skills are not to limited to ReactJS and GatsbyJS as I am also proficient with the MERN Stack with knowledge about RestAPI and GraphQL. My goal is to be a sufficient Software Engineer contributing to Open source community.
 <hr>
 
 ### 📫 How to reach me: ...
