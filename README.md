@@ -12,7 +12,7 @@ Bright and ambitious engineer, with a strong technical background, building Web 
 [![Abisalde's github stats](https://github-readme-stats.vercel.app/api?username=abisalde)](https://github.com/abisalde/github-readme-stats)
 
 ### 👨‍💻️ I’m currently learning JavaScript 👨‍💻️
-- working on JavaSccript through Node.js, React.js, and Gatsby.js
+- JavaScript for Node.js, React.js, and Gatsby.js
 
 
 
