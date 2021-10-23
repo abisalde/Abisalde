@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/c653b176-eb2d-4826-9bd4-2cb06d718fb2.svg)](https://wakatime.com/@c653b176-eb2d-4826-9bd4-2cb06d718fb2)
 
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/d3428e6b6f7f25cfa4865aca6807150e65be5297aade3e310cab58f25a5c637c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d4d6f7267616e5f4a6179267468656d653d6d69646e696768742d707572706c65" alt="abisalde wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=abisalde&amp;theme=light-purple" style="max-width: 100%;"></a></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abisalde&show_icons=true&locale=en&layout=compact" alt="abisalde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abisalde&" alt="abisalde" /></p>
