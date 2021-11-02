@@ -2,7 +2,9 @@
 
 <img src="https://res.cloudinary.com/abisalde/image/upload/c_scale,h_311,w_816/v1616039512/Abisalde_github.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github">
 
-Bright and ambitious engineer, with a strong technical background, building Web Applications with JavaScript. I am currently learning ReactJS and GatsbyJS to build an efficient and optimized Web application. My skills are not to limited to ReactJS and GatsbyJS as I am also proficient with the MERN Stack with knowledge about Rest API and GraphQL. My goal is to be a self-sufficient Software Engineer contributing to the Open-source community.
+Isaiah is a creative Software and versatile JavaScript developer with Web applications skills specializing in building UI/UX web applications with React.js, Gatsby.js, Node.js, and Express.js. He's able to communicate and consume GraphQL and RestAPI for frontend applications.
+
+He's a bright and ambitious engineer with a sound technical background, possessing the skill to transform complex problems using a practical approach.
 <hr>
 
 ### 📫 How to reach me: ...
