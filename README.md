@@ -13,8 +13,8 @@ He's a bright and ambitious engineer with a sound technical background, possessi
 
 [![Abisalde's github stats](https://github-readme-stats.vercel.app/api?username=abisalde)](https://github.com/abisalde/github-readme-stats)
 
-### 👨‍💻️ I’m currently learning JavaScript 👨‍💻️
-- JavaScript for Node.js, React.js, and Gatsby.js
+### 👨‍💻️ I’m currently learning Python, Flask 👨‍💻️
+- SQLAlchemy
 
 
 
