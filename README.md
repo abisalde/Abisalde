@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 [![wakatime](https://wakatime.com/badge/user/c653b176-eb2d-4826-9bd4-2cb06d718fb2.svg)](https://wakatime.com/@c653b176-eb2d-4826-9bd4-2cb06d718fb2)
 
 ![Abisalde's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abisalde&show_icons=true&theme=solarized-light)
