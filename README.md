@@ -35,6 +35,14 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
+```text
+TypeScript   18 hrs 38 mins  ██████████████████░░░░░░░   72.07 %
+Python       3 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+JavaScript   2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+HTML         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+XML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+```
 
 <!--END_SECTION:waka-->
 
