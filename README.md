@@ -36,11 +36,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 44 mins  █████████████████████▓░░░   86.68 %
-C            2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Groovy       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Prolog       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   11 hrs 15 mins  █████████████████████░░░░   83.52 %
+C            2 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Groovy       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Prolog       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
