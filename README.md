@@ -2,9 +2,9 @@
 
 <img src="https://res.cloudinary.com/abisalde/image/upload/c_scale,h_311,w_816/v1616039512/Abisalde_github.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github">
 
-Isaiah is a creative Software and versatile JavaScript developer with Web applications skills specializing in building UI/UX web applications with React.js, React-Native, Gatsby.js, Node.js, and Express.js. He's able to communicate and consume GraphQL and RestAPI for frontend applications.
+Isaiah is a creative Software and versatile Typescript/JavaScript developer with Web applications skills specializing in building UI/UX web applications with React.js, React-Native, Gatsby.js, Node.js, and Express.js. I am able to communicate and consume GraphQL and RestAPI for frontend applications.
 
-Isaiah is a bright and ambitious engineer with a sound technical background, possessing the skill to transform complex problems using a practical approach.
+I am a bright and ambitious engineer with a sound technical background, possessing the skill to transform complex problems using a practical approach.
 <hr>
 
 ### 📫 How to reach me: ...
