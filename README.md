@@ -14,8 +14,7 @@ I am a bright and ambitious engineer with a sound technical background, possessi
 [![Abisalde's github stats](https://github-readme-stats.vercel.app/api?username=abisalde)](https://github.com/abisalde/github-readme-stats)
 
 - 🌱 I’m currently learning python, flask 👨‍💻️
-- SQLAlchemy
-
+- 👯 I’m looking to collaborate with open source community
 
 
 <!--
