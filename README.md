@@ -15,6 +15,7 @@ I am a bright and ambitious engineer with a sound technical background, possessi
 
 - 🌱 I’m currently learning python, flask 👨‍💻️
 - 👯 I’m looking to collaborate with open source community
+- ⚡ Fun fact: Music is a therapy for me
 
 
 <!--
