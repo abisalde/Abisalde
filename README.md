@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.29 %
-HTML         1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-Groovy       1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Dart         54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-YAML         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Properties   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JavaScript   10 hrs 9 mins   ███████████████░░░░░░░░░░   59.39 %
+HTML         2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Groovy       1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Dart         1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+TypeScript   58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+YAML         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
