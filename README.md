@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   38 hrs 51 mins  ███████████████████████▒░   93.78 %
-JavaScript   1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-HTML         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-CSS          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript   46 hrs 46 mins  ███████████████████████▓░   94.80 %
+JavaScript   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+HTML         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+CSS          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
