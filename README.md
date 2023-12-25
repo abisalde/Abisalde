@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 49 mins   ████████████████████████▒   97.51 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TypeScript   1 hr 10 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
