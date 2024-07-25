@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        25 hrs 3 mins   █████████████████████░░░░   84.04 %
-JavaScript        2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-JSON              57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-TSConfig          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Markdown          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript        37 hrs 12 mins  ██████████████████████░░░   88.33 %
+JavaScript        2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON              59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+TSConfig          16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Prolog            14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
