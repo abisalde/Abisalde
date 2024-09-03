@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        26 hrs 35 mins  ████████████████▓░░░░░░░░   66.77 %
-JSON              2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Groovy            1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-CocoaPods         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Objective-C       50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+TypeScript        25 hrs 9 mins   ███████████████▓░░░░░░░░░   62.77 %
+JSON              2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+CocoaPods         1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Groovy            1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Other             1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
