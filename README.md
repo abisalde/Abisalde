@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                28 hrs 50 mins  ████████████████░░░░░░░░░   64.43 %
-Other             4 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-GraphQL           4 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-TypeScript        3 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-YAML              1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Go                27 hrs 37 mins  ████████████████▓░░░░░░░░   66.64 %
+Other             4 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+TypeScript        3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+GraphQL           2 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Bash              1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
