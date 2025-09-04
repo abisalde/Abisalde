@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other             13 hrs 4 mins   ████████▓░░░░░░░░░░░░░░░░   35.11 %
-TypeScript        5 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-Kotlin            5 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Objective-C       3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-JSON              1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Other             11 hrs 41 mins  ████████░░░░░░░░░░░░░░░░░   32.14 %
+Kotlin            5 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+TypeScript        4 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Objective-C       3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Swift             3 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 ```
 
 <!--END_SECTION:waka-->
