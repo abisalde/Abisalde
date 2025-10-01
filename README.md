@@ -1,6 +1,8 @@
 ### Hi, I'm Isaiah 🌻💻
 
-<img src="https://res.cloudinary.com/abisalde/image/upload/c_scale,h_311,w_816/v1616039512/Abisalde_github.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github">
+<!--
+<img src="https://res.cloudinary.com/abisalde/image/upload/c_scale,h_311,w_816/v1616039512/Abisalde_github.gif" alt="Isaiah Abiodun (Abisalde) small video about his profile on Github"> 
+-->
 
 Crafting digital solutions for cutting-edge businesses through adept knowledge about frontend development and building solutions to make the world a better place
 <hr>
