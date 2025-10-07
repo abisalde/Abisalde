@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      28 hrs 25 mins  ████████████████░░░░░░░░░   64.33 %
-Other           4 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-Go              3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Bash            2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Swift           1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+TypeScript        23 hrs 24 mins  ██████████████▒░░░░░░░░░░   56.74 %
+Go                5 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Other             4 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Bash              2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Swift             1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
