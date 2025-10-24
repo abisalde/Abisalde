@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other             8 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
-YAML              6 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-Go                4 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-CocoaPods         3 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-TypeScript        3 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Other             9 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+YAML              6 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+TypeScript        5 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Go                5 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+CocoaPods         3 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
 ```
 
 <!--END_SECTION:waka-->
