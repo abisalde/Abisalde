@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        61 hrs 23 mins  █████████████████████▒░░░   84.78 %
-Go                3 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Swift             1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Objective-C++     1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Other             1 hr 19 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+TypeScript        58 hrs 32 mins  ████████████████████▒░░░░   81.19 %
+Go                5 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Swift             1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Objective-C++     1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Other             1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
