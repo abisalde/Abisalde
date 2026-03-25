@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        6 hrs                 ███████████▓░░░░░░░░░░░░░   46.49 %
-Go                5 hrs 11 mins         ██████████░░░░░░░░░░░░░░░   40.26 %
-Other             51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Protocol Buffer   22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Python            9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Go                8 hrs 1 min           ██████████████▓░░░░░░░░░░   58.35 %
+TypeScript        3 hrs 36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+Protocol Buffer   45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Other             41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+GraphQL           23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
